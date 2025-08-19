@@ -1,7 +1,4 @@
-- 👋 Hi, I’m @Khadjiyev
-- 🔍 I’m interested in Data
-- 📊 I’m currently learning Data Analysis
-
+Hi, I’m Khadjiyev. I’m learning Python step by step and using this repository to track my progress through exercises, tasks, and small projects in programming and data analysis.
 
 
 <!---
